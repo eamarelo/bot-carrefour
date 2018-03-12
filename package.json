@@ -1,0 +1,26 @@
+{
+  "name": "bot-carrefour",
+  "version": "1.0.0",
+  "description": "bot youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/bot-carrefour.git"
+  },
+  "author": "Elies AMARELO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eamarelo/bot-carrefour/issues"
+  },
+  "homepage": "https://github.com/eamarelo/bot-carrefour#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  },
+  "dependencies": {
+    "deasync": "^0.1.12",
+    "request": "^2.83.0"
+  }
+}
