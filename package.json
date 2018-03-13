@@ -1,7 +1,7 @@
 {
   "name": "bot-carrefour",
   "version": "1.1.0",
-  "description": "bot youtube",
+  "description": "bot carrefour",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

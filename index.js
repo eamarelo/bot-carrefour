@@ -56,8 +56,5 @@ module.exports = class Botcarrefour {
   getJson () {
     return this.json;
   }
-  getPrice (i) {
-    return this.json.prices[i].estimate;
-  }
 };
 
